@@ -1,0 +1,82 @@
+<resources>
+	<string name="imageContent"></string>
+	<string name="failed">Retry</string>
+	 <string name="quit">Exit!!!!</string>
+    <string name="realy_quit">Do you really want to Quit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="app_name">NtcWebSms</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_ntc_web_sms">NTC Web Sms</string>
+	<string name="user">Already a user? Sign In using Nepal Telecom Websms credentials</string>
+	<string name ="userId">Log in Id:</string>
+	<string name="password">Password:</string>
+	<string name="Sign">Sign In</string>
+	<string name="forget">Forget Password</string>
+	<string name="new_user"><b><u>Dont have Login Id</u></b></string>
+	<string name="signup">Sign Up</string>
+	<string name="recipient_no">Recipient No.:</string>
+	<string name="type">Message:</string>
+	<string name="char_left">Character Left:</string>
+	<string name="send_msg">Send To Me</string>
+	<string name="Multiple">*Multiple Recipients can be seperated by a ;</string>
+	<string name="send">Send</string>
+	<string name="reset">Reset</string>
+	<string name="no_internet">Network Currently Unavailable. \n
+	    Please Try Again Later. </string>
+	<string name="netBusy">Network Busy!!!!! \n 
+	    Please Try Again Later.</string>
+	<string name="serverBusy">Server is not responding!!!! \n
+	    Please wait or Try Again Later.</string>
+	    
+	<string name="about">T</string>
+	
+	 
+	 <!-- Registration Form-->  
+	 <string name="instruction"><u>Follow the Instruction for input field(1. and 2.)</u> \n 
+	    <b>For Nepal Telecom Post-paid Subscribers:</b> \n
+	    1:-> Mobile Number \n 
+	    2:->PUK No.(To get PUK ,type PUK send SMS to 1400 \n
+	    <b>For Nepal Telecom Pre-paid Subscriber:</b> \n
+	    1:-> Mobile Number \n
+	    2:-> SIM Serial Number(19 digit) \n
+	    <b>For Subscribers having Nepal Telecom Active \n C-Phone Number:</b> \n
+	    1:-> Phone Number \n
+	    2:-> FWP Number   \n
+	    <b>For Subscribers having Nepal Telecom Active \n CDMA  Number:</b> \n
+	    1:-> Mobile Number \n
+	    2:-> R-UIM Number  \n </string> 
+	<string name="reginst">Instructions for Registration</string>
+	<string name="regnum">1.GSM/CDMA Number(UserId):</string>
+	<string name="regpass">2.PUK/Sim serial/R-UIM/FWP Number:</string>
+	<string name="regagree">I agree to</string>
+	<string name="regterms"><u>Terms and Conditions</u></string>
+	<string name="register">Register</string>
+	<string name="ok">OK</string>
+	
+	<!-- Forget Password Form-->  
+	<string name="resetinst">
+	    <u><b>Note:Please make sure that your mobile phone \n
+	         is switched on before submitting the \n 
+	         information in order to recieve code \n 
+	         immediately. </b></u> \n
+	    Enter your Existing WebSms <i><b>Log in ID</b></i> and \n
+	    <i><b>PUK(PostPaid User)</b></i> or \n
+	    <i><b>SIM Serial Number(PrePaid User)</b></i> or \n
+	    <i><b>FWP Number(C-Phone User)</b></i> or \n
+	    <i><b>R-UIM Number(CDMA User)</b></i>
+	</string>
+	
+	<string name="validation">Already Got the Validation Code?? \n
+	    							Click Here</string>
+	<string name="readit">Please read this carefully</string>
+	<string name="submit">Submit</string>
+	
+	<!-- Validation Form-->
+	<string name="newUser">User Login</string>
+	<string name="username">Username:</string>
+	<string name="validcode">Validation Code:</string>
+	<string name="newpasswd">New Password:</string>
+	<string name="confirm">Confirm New \n  Password:</string>  
+</resources>
